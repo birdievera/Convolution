@@ -16,7 +16,7 @@ Using the image:
 
 Our convolved image is:
 
-![alt text](https://github.com/birdievera/Convolution/example.jpg "Convolved ")
+![alt text](https://github.com/birdievera/Convolution/example.jpg "Convolved cat")
 
 
 **Further improvements**
