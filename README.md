@@ -12,11 +12,11 @@ Convolves an image with a kernel. It uses zero-padding to account for edges of t
 
 Using the image:
 
-![alt text](https://github.com/birdievera/Convolution/cat.jpg "Cat")
+![alt text](https://github.com/birdievera/Convolution/blob/master/cat.jpg "Cat")
 
 Our convolved image is:
 
-![alt text](https://github.com/birdievera/Convolution/example.jpg "Convolved cat")
+![alt text](https://github.com/birdievera/Convolution/blob/master/example.jpg "Convolved cat")
 
 
 **Further improvements**
