@@ -1,6 +1,7 @@
 ### Convolution
 
 Convolves an image with a kernel. It uses zero-padding to account for edges of the photo.
+*Note*: Image is read in greyscale to speed up convolve process.
 
 **Results:**
 
